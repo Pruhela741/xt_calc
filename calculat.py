@@ -1,0 +1,16 @@
+num1 = int(input("enter the number :-"))
+num2 = int(input("enter the number:-"))
+
+addition = (num1+num2)
+subrtaction = (num1-num2)
+multiplication = (num1*num2)
+Division = (num1/num2)
+modulas = (num1 % num2)
+power=(num1**num2)
+
+print("sum",addition)
+print("diffrence",subrtaction)
+print("product ",multiplication)
+print("divide",Division)
+print("mod",modulas)
+print("power",power)
